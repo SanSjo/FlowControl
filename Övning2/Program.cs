@@ -119,6 +119,7 @@ namespace Övning2
             Console.WriteLine($"Tredje ordet i meningen är " + words[2]);
         }
 
+
         private static void MainMenu()
         {
             Console.WriteLine("Ni komer få tre olika val");
@@ -130,7 +131,7 @@ namespace Övning2
 
         private static void PrintTenTimes()
         {
-            Console.WriteLine("Type in something and get it back 10 times");
+            Console.WriteLine("Skriv in något och få tillbaka det 10 gånger");
             string input = Console.ReadLine();
 
             for (int i = 1; i <= 10; i++)
