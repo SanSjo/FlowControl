@@ -63,7 +63,7 @@ namespace Övning2
 
             }
 
-       
+        }
 
 
         // Method to make an order with different ages and get the total cost for the order
