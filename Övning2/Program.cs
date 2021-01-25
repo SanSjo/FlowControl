@@ -63,45 +63,7 @@ namespace Övning2
 
             }
 
-        }
-
-        //public static void CheckAge()
-        //{
-        //    string age = Console.ReadLine();
-        //    int answerAge;
-        //    int.TryParse(age, out answerAge);
-
-
-        //    if (answerAge <= 20)
-        //    {
-        //        Console.WriteLine("Ungdomspris 80kr");
-
-
-        //    }
-        //    else if (answerAge >= 64)
-        //    {
-        //        Console.WriteLine("Pensionärspris 90kr");
-
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("Standardpris 120kr");
-
-        //    }
-        //}
-
-
-        //static void PrintTicketPrice(int age)
-        //{
-        //    Tickets[] ticketPrice = addTickets.getTicket();
-
-        //    foreach (Tickets price in ticketPrice)
-        //    {
-        //        Console.WriteLine($"Biljetetrna kostar {price.Ticket} ");
-
-        //    }
-
-        //}
+       
 
 
         // Method to make an order with different ages and get the total cost for the order
